@@ -1,5 +1,6 @@
 # Summary
 
 * [Advanced](README.md)
-* [First Chapter](chapter1.md)
+* [Simple](chapter1.md)
+* [Attributes](attributes.md)
 
